@@ -1,0 +1,6 @@
+{
+  "name": "paydunya-vercel",
+  "version": "1.0.0",
+  "main": "api/checkout.js",
+  "type": "module"
+}
