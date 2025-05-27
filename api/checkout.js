@@ -28,10 +28,10 @@ export default async function handler(req, res) {
 
   const headers = {
     'Content-Type': 'application/json',
-    'PAYDUNYA-MASTER-KEY': 'VOTRE_MASTER_KEY',
-    'PAYDUNYA-PRIVATE-KEY': 'VOTRE_PRIVATE_KEY',
-    'PAYDUNYA-PUBLIC-KEY': 'VOTRE_PUBLIC_KEY',
-    'PAYDUNYA-TOKEN': 'VOTRE_TOKEN',
+    'PAYDUNYA-MASTER-KEY': '0vfJty7v-qSyX-Wf4N-If2b-SwXgyxzw4sa4',
+    'PAYDUNYA-PRIVATE-KEY': 'live_private_TO4GJEwN2DSUdpS26j08327C4yV',
+    'PAYDUNYA-PUBLIC-KEY': 'live_public_6g2X5rSRadHow5RDYDKdZ8JGhp4',
+    'PAYDUNYA-TOKEN': 'k1ms77gbiyR70KUYLAve',
   };
 
   try {
